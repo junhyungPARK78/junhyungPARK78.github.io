@@ -6,11 +6,10 @@ author: PJH
 categories: "Spine"
 tags: "spine export setting 設定 설정"
 ---
-Excerpt
+
 <h1>
 spine 데이터를 export하는 방법
 </h1>
-Out-of-excerpt
 
 【한국어】
 
