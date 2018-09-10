@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 날짜 표기 수정
+title: header의 date에 대한 실험
 date:   2015-06-09 16:30:00
 author: PJH
 categories: "Blog"
