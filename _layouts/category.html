@@ -3,9 +3,12 @@ layout: default
 ---
 <ul class="posts-list">
 
+
+<center>
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
-    <li>
+
+      <li>
       <h3>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
@@ -13,6 +16,8 @@ layout: default
         <small>{{ post.date | date_to_string }}</small>
       </h3>
     </li>
+
   {% endfor %}
 
+</center>
 </ul>
