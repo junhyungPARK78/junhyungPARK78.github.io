@@ -75,54 +75,54 @@ social:
 #    desc: Follow me on Twitter
     share: true
 
-#  - name: Facebook
-#    icon: facebook
+  - name: Facebook
+    icon: facebook
 #    username: thebencentra
 #    url:
 #    desc: Friend me on Facebook
-#    share: true
+    share: true
 
-#  - name: GitHub
-#    icon: github
+  - name: GitHub
+    icon: github
 #    username: junhyungpark78
 #    url: https://github.com/junhyungpark78
 #    desc: Fork me on GitHub
-#    share: false
+    share: true
 
-#  - name: LinkedIn
-#    icon: linkedin
+  - name: LinkedIn
+    icon: linkedin
 #    username: Ben Centra
 #    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
 #    desc: Connect with me on LinkedIn
-#    share: true
+    share: true
 
-#  - name: Google+
-#    icon: google-plus
+  - name: Google+
+    icon: google-plus
 #    username:
 #    url:
 #    desc: Add me to your Circles
-#    share: true
+    share: true
 
-#  - name: YouTube
-#    icon: youtube
+  - name: YouTube
+    icon: youtube
 #    username:
 #    url:
 #    desc: Subscribe on YouTube
-#    share: false
+    share: true
 
-#  - name: Instagram
-#    icon: instagram
+  - name: Instagram
+    icon: instagram
 #    username:
 #    url:
 #    desc: Follow me on Instagram
-#    share: false
+    share: true
 
-#  - name: Pinterest
-#    icon: pinterest
+  - name: Pinterest
+    icon: pinterest
 #    username:
 #    url:
 #    desc: Follow me on Pinterest
-#    share: true
+    share: true
 
 #  - name: SoundCloud
 #    icon: soundcloud
@@ -131,12 +131,12 @@ social:
 #    desc: Follow me on SoundCloud
 #    share: false
 
-#  - name: Tumblr
-#    icon: tumblr
+  - name: Tumblr
+    icon: tumblr
 #    username:
 #    url:
 #    desc: Follow me on Tumblr
-#    share: false
+    share: true
 
 #  - name: Steam
 #    icon: steam
