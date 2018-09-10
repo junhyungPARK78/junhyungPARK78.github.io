@@ -8,6 +8,10 @@ tags: "ipsum"
 cover:  "/assets/instacode.png"
 ---
 
+<h1>
+제목
+</h1>
+
 【이미지 등록방법】
 「기본」
 
