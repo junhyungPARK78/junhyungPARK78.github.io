@@ -32,7 +32,9 @@ highlightjs_theme: "monokai-sublime"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
-  enabled: all
+  enabled:
+    - categories
+    - tags
   layout: archive
   permalink:
     category: '/category/:name/'
