@@ -14,6 +14,15 @@ job : spine animator
 Game Graphic Designer  
 Japan NOW!
 
+### Language
+L1 :
+- Korean
+
+L2 :
+- Japanese
+- English
+- Chinese
+
 ### Contact me
 
 [parkjh78@gmail.com](mailto:parkjh78@gmail.com)
