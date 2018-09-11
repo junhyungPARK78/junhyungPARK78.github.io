@@ -41,7 +41,7 @@ highlightjs_theme: "monokai-sublime"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: "Park Junhyung"
 
 # Google analytics
 ga_tracking_id: "UA-125021765-1"
