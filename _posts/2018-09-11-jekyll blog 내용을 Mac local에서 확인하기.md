@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "jekyll blog 내용을 Mac local에서 확인하기"
-date:   2018-9-11 00:00:00
+date:   2018-9-11 00:00:00 +0900
 author: PJH
 categories: "Blog"
 tags: "Blog"

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: photoshop에서 작업 영역을 마음대로 보기
-date:   2018-08-23 14:13:00
+date:   2018-08-23 14:13:00 +0900
 author: PJH
 categories: "Photoshop"
 tags: "photoshop art_board アートボード"

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "GITHub와 jekyll을 이용한 첫 블로깅"
-date:   2015-06-09 15:43:00
+date:   2015-06-09 15:43:00 +0900
 author: PJH
 categories: "Blog"
 tags: "Blog"

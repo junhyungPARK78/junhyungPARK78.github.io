@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: ssh key를 GITHUB에서 쓸 수 있도록 하는 방법
-date:   2018-08-22 18:02:00
+date:   2018-08-22 18:02:00 +0900
 author: PJH
 categories: "Github"
 tags: "github"

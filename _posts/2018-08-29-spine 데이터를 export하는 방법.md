@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "spine의 export 설정（spineのexportの設定）"
-date:   2018-08-29 16:24:00
+date:   2018-08-29 16:24:00 +0900
 author: PJH
 categories: "Spine"
 tags: "spine export setting 設定 설정"
