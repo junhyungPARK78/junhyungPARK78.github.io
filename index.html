@@ -33,6 +33,10 @@ layout: default
         {% endif %}
       {% endfor %}{% endif %}
       </div>
+
+      <a href="https://jidae.com{{ post.url }}#disqus_thread">0 Comments</a>
+
+      
     </section>
   </li>
   {% if forloop.last == false %}
@@ -79,8 +83,6 @@ layout: default
       <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
-
-    <a href="https://jidae.com{{ post.url }}#disqus_thread">0 Comments</a>
 
 	</p>
 </nav>
