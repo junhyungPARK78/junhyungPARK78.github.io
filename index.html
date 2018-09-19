@@ -29,9 +29,6 @@ layout: default
         {% if site.jekyll-archives %}
         <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
         {% else %}
-
-        <script id="dsq-count-scr" src="//pjhs-blog.disqus.com/count.js" async></script>
-
         <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
         {% endif %}
       {% endfor %}{% endif %}
@@ -82,6 +79,9 @@ layout: default
       <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
+
+    <a href="https://jidae.com{{ post.url }}#disqus_thread">0 Comments</a>
+
 	</p>
 </nav>
 
