@@ -56,3 +56,5 @@ spine作業の後、実際のゲームで使うためにはexportをする必要
 
 だが、exportするたびにオプションのjsonファイルをロードするのもヒューマンエラーの可能性がすごく高い。
 その点で今後「drag & dropだけで自動的にexportする方法」に関してまた書こうかなと思う。
+
+{% include include_spine_list.html %}
