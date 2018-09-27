@@ -19,4 +19,4 @@ spineのノウハウの共有に関した進行計画
 
 もしこれはどうすれば？とか、いい意見とかありましたらコメントをお願いします。
 
-{% include include_spine_list_jp.html %}
+{% include include_spine_list_JP.html %}
