@@ -19,4 +19,4 @@ spine 노하우 공유에 대한 진행 계획
 
 혹시라도 이런건 어떻게? 라거나 좋은 의견이라든지 있으면 덧글로 남겨주세요.
 
-{% include include_spine_list.html %}
+{% include_relative includes/spine/include_spine_list.md %}
