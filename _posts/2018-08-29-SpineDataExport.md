@@ -32,4 +32,4 @@ spine으로 작업한 후 실제 게임에서 사용하기 위해서는 export�
 사실 export 할 때마다 옵션 json 파일을 불러들이는 것도 꽤 큰 수고가 된다.
 추후 'drag & drop 만으로 자동으로 export 해주는 방법'에 대해서 다시 한번 포스팅을 만들어볼까 생각한다.
 
-{% include include_spine_list.html %}
+{% include_relative includes/spine/include_spine_list.md %}
