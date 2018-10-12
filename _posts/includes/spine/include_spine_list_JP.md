@@ -8,7 +8,7 @@
 
 **「export」**
   - [spineのデータをexportする方法]({{ site.baseurl }}{% link _posts/2018-09-27-SpineDataExport_JP.md %})
-  - drag & drop だけでの自動exportツール（Mac）
+  - [drag & drop だけでの自動exportツール（Mac）]({{ site.baseurl }}{% link _posts/2018-10-12-SpineDataExport_Auto_JP.md %})  
   - 以下の項目は只今準備中です。
 
 **「TIP」**
