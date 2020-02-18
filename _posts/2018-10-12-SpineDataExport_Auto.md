@@ -29,17 +29,10 @@ Mac용의 자동 export 툴을 만드는 방법을 기재해두고자 한다.
 - 입력 방법에 대해서는 「인수로써」를 선택
 - 이하의 내용을 텍스트 에디터로 편집한다.
 
-```
-for f in "$@"
-do
-echo $f;
-
-/Applications/Spine/Spine.app/Contents/MacOS/Spine --input $f --output "./export_folder" --export "./spine_export_option.json" ;
-
-done
-```
+    <script src="https://gist.github.com/junhyungPARK78/1348715c57fb3d0cd8a5836d5e1bdc00.js"></script>
 
     「./export_folder」를 자신에게 맞는 path로 수정한다.
+    
     「./spine_export_option.json」을 자신에게 맞는 path로 수정한다.
 
 - 수정한 내용을 셸 스크립트에 붙여넣는다.

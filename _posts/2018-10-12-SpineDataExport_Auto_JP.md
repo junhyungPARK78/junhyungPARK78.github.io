@@ -29,17 +29,10 @@ Mac用の自動exportアップを作る方法の説明
 - 入力の引き渡し方法は「引数として」を選択
 - 以下の内容をテキストエディタで編集
 
-```
-for f in "$@"
-do
-echo $f;
-
-/Applications/Spine/Spine.app/Contents/MacOS/Spine --input $f --output "./export_folder" --export "./spine_export_option.json" ;
-
-done
-```
+    <script src="https://gist.github.com/junhyungPARK78/1348715c57fb3d0cd8a5836d5e1bdc00.js"></script>
 
     「./export_folder」を自分のpathに修正
+    
     「./spine_export_option.json」を自分のpathに修正
     
 - 修正した内容をコピーしてシェルスクリプトにペーストする

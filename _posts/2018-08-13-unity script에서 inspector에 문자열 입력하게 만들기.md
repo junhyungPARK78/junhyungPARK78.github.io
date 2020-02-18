@@ -15,27 +15,7 @@ unity script에서 inspector에 문자열 입력하게 만들기
 
 일단 스크립트 내용 :
 
-```c#
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class SceneChange : MonoBehaviour
-
-{
-
-    [Header("- Write Target Scene")]
-    public string SceneName;
-
-    //Scene Nameで入力したシーンに転換するメソード
-    public void GoToScene()
-    {
-         SceneManager.LoadScene(SceneName);
-    }
-
-}
-```
+<script src="https://gist.github.com/junhyungPARK78/76bd80087c5a95e59aa2a3d6728cadf5.js"></script>
 
 ```public string SceneName;```
 부분이 인스펙터에 글자 입력하는 옵션이 나오도록 하는 부분.

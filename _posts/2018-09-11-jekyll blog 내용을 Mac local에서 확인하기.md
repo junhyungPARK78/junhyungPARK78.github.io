@@ -49,12 +49,4 @@ http://localhost:4000/
 1. "apple script 실행"을 찾아서 창에 떨궈준다.
 1. 다음 내용을 기입한다.
 
-```
-tell application "Terminal"
-	do script "cd // ; cd /자기 블로그가 설치되어 있는 폴더/ ; bundle exec jekyll serve"
-end tell
-
-tell application "Google Chrome"
-	open location "http://localhost:4000/"
-end tell
-```
+    <script src="https://gist.github.com/junhyungPARK78/9c9f753a59a43780c56bc085deb3f88d.js"></script>
