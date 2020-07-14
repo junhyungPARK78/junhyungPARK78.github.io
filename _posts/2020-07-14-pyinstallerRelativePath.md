@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "python에서 외부 파일을 사용하고 있을 때 주의점"
-date:   2020-07-14 14:46:00 +0900
+title: "python에서 외부 파일을 사용하고 있을 때 주의점"
+date: 2020-07-14 14:46:00 +0900
 author: PJH
 categories: "Programming"
 tags: "Programming", "python"
