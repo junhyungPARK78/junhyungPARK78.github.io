@@ -5,7 +5,7 @@ title:  "python의 파일 저장 방법 중 'pickle'에 대해서"
 date:   2020-07-07 11:53:00 +0900
 author: PJH
 categories: "Programming"
-tags: "Programming" "python"
+tags: "Programming"
 cover:
 ---
 
