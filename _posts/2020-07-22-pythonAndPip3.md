@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "python의 패키지를 일정하게 만들기"
-date: 2020-07-16 18:59:00 +0900
+date: 2020-07-22 11:39:00 +0900
 author: PJH
 categories: "Programming"
 tags: "Programming"
