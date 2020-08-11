@@ -5,7 +5,7 @@ title: "GAS로 CW 메세지 보내기"
 date: 2020-08-07 12:57:00 +0900
 author: PJH
 categories: "Programming"
-tags: "Programming"
+tags: "Programming, gas"
 cover:
 ---
 
