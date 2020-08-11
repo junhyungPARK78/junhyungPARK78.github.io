@@ -10,7 +10,7 @@ cover:
 ---
 
 <h1>
-GAS로 CW 메세지 보내기
+Google Apps Script로 CW 메세지 보내기
 </h1>
 
 ### 문제
@@ -19,13 +19,13 @@ GAS로 CW 메세지 보내기
 
 ### 해결
 
-스프레드 시트에서 GAS 발동 방법에 대해서는 패스.
+스프레드 시트에서 Google Apps Script 발동 방법에 대해서는 패스.
 
 <script src="https://gist.github.com/junhyungPARK78/3a72481d4ac599212827e445646e017d.js"></script>
 
 필요한 정보 :
-1. CW token
-1. CW의 Room ID
+1. ChatWork token
+1. ChatWork의 Room ID
 
 내용은 직접 넣어도, 시트의 일정 영역을 불러오는 것도 가능함.
 상황에 맞추어 제작하면 됨.
