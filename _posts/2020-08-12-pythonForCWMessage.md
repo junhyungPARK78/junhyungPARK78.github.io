@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "GAS로 CW 메세지 보내기"
+title: "python으로 CW 메세지 보내기"
 date: 2020-08-12 18:53:00 +0900
 author: PJH
 categories: "Programming"
@@ -10,7 +10,7 @@ cover:
 ---
 
 <h1>
-python로 CW 메세지 보내기
+python으로 CW 메세지 보내기
 </h1>
 
 ### 문제
