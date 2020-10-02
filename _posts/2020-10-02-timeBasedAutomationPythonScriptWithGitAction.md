@@ -4,8 +4,8 @@ comments: true
 title: "GitHub Actions을 이용해서 시간 베이스로 자동 실행시키기"
 date: 2020-10-02 11:09:00 +0900
 author: PJH
-categories: [Programming]
-tags: [Programming]
+categories: [Programming, Github]
+tags: [Programming, Github]
 cover: "/assets/coverImage_Programing.png"
 ---
 
