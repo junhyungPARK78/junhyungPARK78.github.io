@@ -1,36 +1,67 @@
 ---
 layout: post
 comments: true
-title:  "Dummy Post"
+title:  "제목"
 date:   2018-08-29 00:00:00 +0900
 author: PJH
-categories: "Dummy"
-tags: "ipsum"
-cover:  "/assets/instacode.png"
+categories: [Dummy]
+tags: [ipsum]
+cover: "/assets/coverImage_Programing.png"
 ---
 
-<h1>
-제목
-</h1>
+# 제목
 
-【이미지 등록방법】
-「기본」
+-------->
+일단 여기 그림 넣기
+<--------
 
+-------->
+가벼운 소개글
+<--------
+
+---
+
+## 소제목 1
+
+-------->
+일단 여기 그림 넣기
+<--------
+
+-------->
+소제목에 대한 설명하기
+<--------
+
+---
+
+## 그 다음 소제목
+
+---
+
+## 정리
+-------->
+전체적인 설명, 정리하기
+<--------
+
+---
+
+## 참고 기능
+
+### 【이미지 등록방법】
+#### 「기본」
 ![title](/assets/post_img/myComputer.jpg)
 
-assdf
-
-「리사이즈」
-
+#### 「리사이즈」
 ![title](/assets/post_img/myComputer.jpg){: width="100px" height="100px"}
+![title](/assets/post_img/myComputer.jpg){: width="100px"}
+    └비율 유지하면서 리사이즈
 
-【code】
+### 【code 관련】
 
-「간단한 인라인 코드」
+#### 「간단한 인라인 코드」
 
 asdf`asdf`asdf
 
-「복수 줄의 코드」
+#### 「복수 줄의 코드」
 ```
 asas
 asas
