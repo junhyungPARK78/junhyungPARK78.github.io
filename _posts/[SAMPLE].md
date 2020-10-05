@@ -67,3 +67,6 @@ asas
 asas
 asasdf
 ```
+
+### 내부 문서 링크하기
+[spineのデータをexportする方法]({{ site.baseurl }}{% link _posts/2018-09-27-SpineDataExport_JP.md %})
