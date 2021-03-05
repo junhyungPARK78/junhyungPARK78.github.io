@@ -22,50 +22,30 @@ cover: "/assets/coverImage_Japanlife.png"
 
 ## 우선, 전제
 
-![title](/assets/post_img/2021-03-02-1240/kakuseiki_man_smile.png){: width="200px"}
+![](/assets/post_img/2021-03-02-1240/kakuseiki_man_smile.png){: width="200px"}
 
 1. 내가 쓰고 있는 은행이 UFJ이기 때문에 UFJ 은행 기준으로 작성한다. 다른 은행의 경우는 가능하다는 보장은 없음.
 1. 등록과 사용 모두 무료이다.
 1. 은행 어플리에서 진행했다.
   - 웹은 동일한 메뉴가 있는 것을 확인했으니 가능하리라 생각하며, 창구에서 직접 하는건 당연히 가능하겠지.
-  - ...설마 수수료를 받으려나? 라는 합당한 의심을 할 수 밖에 없다...
+  - ...설마 창구에서 하면 수수료를 받으려나? 라는 합당한 의심을 할 수 밖에 없다...
 
 ---
 
-## 그 다음 소제목
+## 순서는...
+
+다음 이미지 순서대로 조작하면 된다.
+
+![](/assets/post_img/2021-03-02-1240/IMG_3564.jpg){: width="300px"}
+
+![](/assets/post_img/2021-03-02-1240/IMG_3566.jpg){: width="300px"}
+
+![](/assets/post_img/2021-03-02-1240/IMG_3567.jpg){: width="300px"}
 
 ---
 
 ## 정리
--------->
-전체적인 설명, 정리하기
-<--------
 
----
+한국에서는 느끼지 못했던 불편이 여기서는 굳이 신청해야 한다는게 희한하게 느껴지는 부분이지만, 일단 어떻게 하면 주말에도 바로 보낼 수 있는지 알았으니까 오케이!
 
-## 참고 기능
-
-### 【이미지 등록방법】
-#### 「기본」
-![title](/assets/post_img/myComputer.jpg)
-
-#### 「리사이즈」
-![title](/assets/post_img/myComputer.jpg){: width="100px" height="100px"}
-![title](/assets/post_img/myComputer.jpg){: width="100px"}
-    └비율 유지하면서 리사이즈
-
-### 【code 관련】
-
-#### 「간단한 인라인 코드」
-
-asdf`asdf`asdf
-
-#### 「복수 줄의 코드」
-```
-asas
-asas
-asasdf
-```
-
-### 내부 문서 링크하기
-[spineのデータをexportする方法]({{ site.baseurl }}{% link _posts/2018-09-27-SpineDataExport_JP.md %})
+![](/assets/post_img/2021-03-02-1240/gutspose_man.png){: width="200px"}
