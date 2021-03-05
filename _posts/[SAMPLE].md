@@ -43,6 +43,8 @@ cover: "/assets/coverImage_Programing.png"
 <--------
 
 ---
+여기서부터 밑은 삭제할 것
+---
 
 ## 참고 기능
 
