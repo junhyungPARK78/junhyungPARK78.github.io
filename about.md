@@ -1,28 +1,29 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.png" title="Profile Picture" class="profile">
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-name : Junhyung Park  
-job : spine animator
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-### More Information
+There are currently two themes built on Poole:
 
-Game Graphic Designer  
-Japan NOW!
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-### Language
-L1 :
-- Korean
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-L2 :
-- Japanese
-- English
-- Chinese
+## Setup
 
-### Contact me
+Some fun facts about the setup of this project include:
 
-[parkjh78@gmail.com](mailto:parkjh78@gmail.com)
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Atom](https://atom.io)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
