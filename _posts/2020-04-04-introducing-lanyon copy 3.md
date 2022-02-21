@@ -1,12 +1,14 @@
 ---
 layout: post
-<<<<<<< HEAD:_posts/_2020-04-03-introducing-lanyon.md
-title: Introducing Lanyon
-=======
-title: Introducing Lanyon_original
-tags: [qwer, 1234]
->>>>>>> ff492df (포스트 내용 수정):_posts/2020-04-01-introducing-lanyon.md
+title: Introducing Lanyon3
+tags: [JapanLife, asdf, asqdwecc]
 ---
+
+<script src="https://gist.github.com/junhyungPARK78/d7331a783720f3bb9cf42328b5c6c6d5.js"></script>
+
+
+
+
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
