@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <article class="tag">
+        <div class="container">
+          <header class="post-header">
+            <h1 class="page-heading">Archives by tag</h1>
+          </header>
+          <div>
+            {% for tag in site.tags%}
+              {% capture tag_name %}{{tag|first|slugize}}{% endcapture %}
+              <div style="margin-bottom: 50px;" id="{{ tag_name }}">
+
+                <h4 class="category-head">※ {{ tag_name }}</h4>
+
+                <ul class="post-archives">
+                  {% for post in site.tags[tag_name] %}
+                    <li style="margin-left: 20px;">
+                      <span class="post-meta">
+                        {{ post.date | date: "%Y %-m %-d" }}
+                        {% if post.external-url %}
+                          • <a href="{{ post.url | relative_url }}">Permalink</a>
+                        {% endif %}
+                      </span>
+                
+                      <h2>
+                        {% if post.external-url %}
+                          <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+                        {% else %}
+                          <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>
+                        {% endif %}
+                      </h2>
+
+                    </li>
+                  {% endfor %}
+              </ul>
+            </div>
+
+            {% endfor %}
+
+          </div>
+
+      </article>
+
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  </body>
+
+  <script>
+    document.getElementById(decodeURIComponent(location.hash.substr(1)+"_")).style.display = "block";
+  </script>
+
+</html>

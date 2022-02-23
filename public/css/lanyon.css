@@ -556,3 +556,19 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/**
+* tag_list
+*/
+.tag .tagname a {
+  color: #808080;
+}
+.tag .tagname {
+  transition: all 0.1s ease-in-out;
+  display: inline-block;
+  margin-left: 10px;
+  /* &:hover {
+    transform : scale(1.1);
+    -webkit-transform : scale(1.1);
+  } */
+}
