@@ -14,7 +14,16 @@ title: Home
 
     <span class="post-date">{{ post.date | date: "%Y %-m %-d" }}</span>
 
-    {{ post.content }}
+    <span class="tag">
+      {% if post.tags != empty %}
+        Tag : {% for tag in post.tags %}
+          <a href="/tag/archives#{{ tag | escape }}">{{tag}}</a>
+          {% if forloop.index != post.tags.size %},{% endif %} 
+        {% endfor %}
+      {% endif %}
+    </span><hr>
+
+    {{ post.content | strip_html | truncatewords: 20 }} <!-- 「truncatewords」：미리보기 본문 단어 수 제한 -->
   </div>
   {% endfor %}
 </div>
