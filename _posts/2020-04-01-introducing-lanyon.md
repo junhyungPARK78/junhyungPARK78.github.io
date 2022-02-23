@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Lanyon_original
-tags: [qwer, 1234]
+tags: [qwer, "1234"]
 ---
 
 <script src="https://gist.github.com/junhyungPARK78/d7331a783720f3bb9cf42328b5c6c6d5.js"></script>
