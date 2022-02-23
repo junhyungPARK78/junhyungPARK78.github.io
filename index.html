@@ -3,6 +3,33 @@ layout: default
 title: Home
 ---
 
+<div class="tag">
+  <!-- FC2 카운터 여기부터 -->
+  <center>
+  counter :
+  <script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=35162258&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=35162258&main=1" /></noscript>
+  </center>
+  <!-- My 카운터 여기까지 -->
+</div>
+
+<div class="tag">
+  tag : 
+  {%  for tag in site.tags %}
+    <!-- tag_name 변수 지정: 태그명은 소문자화(slugize) 한다 -->
+    {% capture tag_name %}{{tag|first|slugize}}{% endcapture %}
+    <!-- tag_size 변수 지정-->
+    {% capture tag_size %}{{tag|last|size}}{% endcapture %}
+    <!-- font_size 변수 지정: 태그숫자/전체태그숫자 * 100 + 50 -->
+    {% capture font_size %}{{tag_size | times: site.tags.size | divided_by:site.tags.size | plus: 14 }}{% endcapture %}
+
+    <div class="tagname">
+      <a href="/tag/archives#{{tag_name}}" style="font-size:{{font_size}}px">{{ tag_name }}</a>
+    </div>
+  {% endfor %}
+</div>
+
+<hr>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -12,18 +39,18 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date: "%Y %-m %-d" }}</span>
-
-    <span class="tag">
+    <span class="post-date">
+      {{ post.date | date: "%Y %-m %-d" }}<br>
       {% if post.tags != empty %}
         Tag : {% for tag in post.tags %}
           <a href="/tag/archives#{{ tag | escape }}">{{tag}}</a>
           {% if forloop.index != post.tags.size %},{% endif %} 
         {% endfor %}
       {% endif %}
-    </span><hr>
+    </span>
 
     {{ post.content | strip_html | truncatewords: 20 }} <!-- 「truncatewords」：미리보기 본문 단어 수 제한 -->
+    <hr>
   </div>
   {% endfor %}
 </div>
