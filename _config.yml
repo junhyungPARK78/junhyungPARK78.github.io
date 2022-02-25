@@ -6,6 +6,7 @@ url:                 http://junhyungpark78.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+comments:            true
 
 # About/contact
 author:
@@ -21,7 +22,7 @@ plugins:
 timezone: Asia/Tokyo
 
 # Disqus comments
-disqus_shortname:    "Park Junhyung"
+disqus_shortname:    "pjhs-blog"
 
 # Custom vars
 version:             1.1.0
