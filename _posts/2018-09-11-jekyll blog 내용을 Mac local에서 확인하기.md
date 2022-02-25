@@ -1,17 +1,13 @@
 ---
-layout: post
-comments: true
-title: "jekyll blog 내용을 Mac local에서 확인하기"
-date:   2018-9-11 00:00:00 +0900
-author: PJH
-categories: "Blog"
-tags: "Blog"
+layout:     post
+comments:   true
+title:      "jekyll blog 내용을 Mac local에서 확인하기"
+date:       2018-09-11 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [blog, jekyll, local]
 ---
 
-<h1>
-jekyll blog 내용을 Mac local에서 확인하기
-
-</h1>
 
 블로그를 업데이트 하거나 포스트를 업로드할 때 반복해서 확인해야 할 때가 있다.
 그럴 때 평소대로 GIT에 올리면 실제로 적용될 때까지 적지 않게 기다려야한다.

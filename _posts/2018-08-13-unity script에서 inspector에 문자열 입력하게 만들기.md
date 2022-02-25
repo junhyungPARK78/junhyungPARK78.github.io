@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: unity → script에서 inspector에 문자열 입력하도록 조정하기
-date:   2018-08-13 14:13:00 +0900
-author: PJH
-categories: "Unity"
-tags: "unity script"
-cover:
+layout:     post
+comments:   true
+title:      "unity script에서 inspector에 문자열 입력하도록 조정하기"
+date:       2018-08-13 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [unity, script]
 ---
-
-<h1>
-unity script에서 inspector에 문자열 입력하게 만들기
-</h1>
 
 일단 스크립트 내용 :
 

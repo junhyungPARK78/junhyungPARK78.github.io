@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: ssh key를 GITHUB에서 쓸 수 있도록 하는 방법
-date:   2018-08-22 18:02:00 +0900
-author: PJH
-categories: "Github"
-tags: "github"
-cover:  
+layout:     post
+comments:   true
+title:      "ssh key를 GITHUB에서 쓸 수 있도록 하는 방법"
+date:       2018-08-22 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [github, ssh]
 ---
-
-<h1>
-GITHub과 ssh key에 대한 정리
-</h1>
 
 먼저 비밀키 만들기
 
@@ -43,5 +38,4 @@ Enter same passphrase again:
 
 [해당 내용을 GitHub의 자기 어카운트에 new ssh key로 등록](https://github.com/settings/keys)
 
-그 후 클론하면 먹히게 됨.
-`git clone 클론 주소`
+완료!

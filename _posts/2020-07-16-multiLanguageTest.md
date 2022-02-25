@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: "python에서 다국어 지원을 할 때의 아이디어"
-date: 2020-07-16 18:59:00 +0900
-author: PJH
-categories: "Programming"
-tags: "Programming"
-cover:
+layout:     post
+comments:   true
+title:      "python에서 다국어 지원을 할 때의 아이디어"
+date:       2020-07-16 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [python]
 ---
-
-<h1>
-python에서 다국어 지원을 할 때의 아이디어
-</h1>
 
 ### 문제
 

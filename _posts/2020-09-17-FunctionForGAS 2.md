@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: "GAS에서 함수 사용하기"
-date: 2020-09-17 14:47:00 +0900
-author: PJH
-categories: [Programming]
-tags: [Programming]
-cover:
+layout:     post
+comments:   true
+title:      "Google Apps Script에서 함수를 사용하는 방법"
+date:       2020-09-17 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [googleAppsScript]
 ---
-
-<h1>
-Google Apps Script에서 함수를 사용하는 방법
-</h1>
 
 ### 문제
 

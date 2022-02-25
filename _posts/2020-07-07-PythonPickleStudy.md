@@ -1,17 +1,14 @@
 ---
-layout: post
-comments: true
-title:  "python의 파일 저장 방법 중 'pickle'에 대해서"
-date:   2020-07-07 11:53:00 +0900
-author: PJH
-categories: "Programming"
-tags: "Programming"
-cover:
+layout:     post
+comments:   true
+title:      "python의 파일 저장 방법 중 'pickle'에 대해서"
+date:       2020-07-07 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [python, pickle]
 ---
 
-<h1>
-python에서 string 이외의 형식으로 파일을 저장하기
-</h1>
+### python에서 string 이외의 형식으로 파일을 저장하기
 
 ### 문제
 

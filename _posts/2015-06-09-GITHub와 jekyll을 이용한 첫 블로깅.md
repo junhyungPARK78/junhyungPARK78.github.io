@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: "GITHub와 jekyll을 이용한 첫 블로깅"
-date:   2015-06-09 15:43:00 +0900
-author: PJH
-categories: "Blog"
-tags: "Blog"
-cover:
+layout:     post
+comments:   true
+title:      "GITHub와 jekyll을 이용한 첫 블로깅"
+date:       2015-06-09 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [blog, github, jekyll]
 ---
-
-<h1>
-GITHub와 jekyll을 이용한 첫 블로깅
-</h1>
 
 이래저래 정보 정리를 어디에 해야할까 고민해왔다.
 주안점은 두가지.

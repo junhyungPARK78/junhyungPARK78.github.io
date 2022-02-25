@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title:  "spine의 export를 자동화시키자"
-date:   2018-10-12 18:23:00 +0900
-author: PJH
-categories: "Spine"
-tags: "Spine"
-cover:
+layout:     post
+comments:   true
+title:      "spine의 export를 자동화시키자"
+date:       2018-10-12 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [spine, export]
 ---
-
-<h1>
-spine의 export를 자동화시키자
-</h1>
 
 Mac용의 자동 export 툴을 만드는 방법을 기재해두고자 한다.
 

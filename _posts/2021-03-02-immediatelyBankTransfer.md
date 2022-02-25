@@ -1,19 +1,16 @@
 ---
-layout: post
-comments: true
-title:  "주말에도 바로 이체하기 (UFJ은행)"
-date:   2021-03-02 12:26:00 +0900
-author: PJH
-categories: [JapanLife]
-tags: [JapanLife]
-cover: "/assets/coverImage_Japanlife.png"
+layout:     post
+comments:   true
+title:      "주말에도 바로 이체하기 (UFJ은행)"
+date:       2021-03-02 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [japanLife]
 ---
 
-# 주말에도 바로 이체하기 (UFJ 은행 편)
-
-![title](/assets/post_img/2021-03-02-1240/weekmark6_sat.png){: width="100px"}
-![title](/assets/post_img/2021-03-02-1240/tatemono_bank_money.png){: width="150px"}
-![title](/assets/post_img/2021-03-02-1240/weekmark7_sun.png){: width="100px"}
+![title](https://www.dropbox.com/s/12g6dmmnknuljrp/weekmark6_sat.png?raw=1){: width="100px"}
+![title](https://www.dropbox.com/s/iyzq2sbkj7tzzij/tatemono_bank_money.png?raw=1){: width="150px"}
+![title](https://www.dropbox.com/s/tyytw04p09h4uzk/weekmark7_sun.png?raw=1){: width="100px"}
 
 일본에 와서 은행 업무를 보면서 제일 귀찮았던 부분이, 주말에 송금을 하게 되면 영업일까지는 꼼짝없이 기다려야하는 부분이었다.
 우연한 기회에, 주말에 송금을 신청해도 바로 보내지는 방법을 알아냈기에 공유한다.
@@ -22,7 +19,7 @@ cover: "/assets/coverImage_Japanlife.png"
 
 ## 우선, 전제
 
-![](/assets/post_img/2021-03-02-1240/kakuseiki_man_smile.png){: width="200px"}
+![](https://www.dropbox.com/s/mwcld9l7wcwgp3k/kakuseiki_man_smile.png?raw=1){: width="200px"}
 
 1. 내가 쓰고 있는 은행이 UFJ이기 때문에 UFJ 은행 기준으로 작성한다. 다른 은행의 경우는 가능하다는 보장은 없음.
 1. 등록과 사용 모두 무료이다.
@@ -36,11 +33,11 @@ cover: "/assets/coverImage_Japanlife.png"
 
 다음 이미지 순서대로 조작하면 된다.
 
-![](/assets/post_img/2021-03-02-1240/IMG_3564.jpg){: width="300px"}
+![](https://www.dropbox.com/s/kxukrieglx9w057/IMG_3564.jpg?raw=1){: width="300px"}
 
-![](/assets/post_img/2021-03-02-1240/IMG_3566.jpg){: width="300px"}
+![](https://www.dropbox.com/s/4qt2oan7xw5znyz/IMG_3566.jpg?raw=1){: width="300px"}
 
-![](/assets/post_img/2021-03-02-1240/IMG_3567.jpg){: width="300px"}
+![](https://www.dropbox.com/s/ljupxsclbqrz0ix/IMG_3567.jpg?raw=1){: width="300px"}
 
 ---
 
@@ -48,4 +45,4 @@ cover: "/assets/coverImage_Japanlife.png"
 
 한국에서는 느끼지 못했던 불편이 여기서는 굳이 신청해야 한다는게 희한하게 느껴지는 부분이지만, 일단 어떻게 하면 주말에도 바로 보낼 수 있는지 알았으니까 오케이!
 
-![](/assets/post_img/2021-03-02-1240/gutspose_man.png){: width="200px"}
+![](https://www.dropbox.com/s/cbrqu33173gdbod/gutspose_man.png?raw=1){: width="200px"}

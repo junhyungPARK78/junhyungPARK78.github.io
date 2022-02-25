@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title:  "spineのexportを自動的にする"
-date:   2018-10-12 18:23:00 +0900
-author: PJH
-categories: "Spine"
-tags: "Spine"
-cover:
+layout:     post
+comments:   true
+title:      "spineのexportを自動的にする"
+date:       2018-10-12 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [spine]
 ---
-
-<h1>
-spineのexportを自動的にする
-</h1>
 
 Mac用の自動exportアップを作る方法の説明
 

@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: "Blog에서 복수의 카테고리를 설정하는 방법"
-date: 2020-09-24 15:47:00 +0900
-author: PJH
-categories: [Blog]
-tags: [Blog, Category]
-cover:
+layout:     post
+comments:   true
+title:      "jekyll blog에서 카테고리나 태그를 복수로 설정하는 방법"
+date:       2020-09-24 +0900
+author:     PJH
+# categories: [Dummy]
+tags:       [jekyll]
 ---
-
-<h1>
-Blog에서 복수의 카테고리를 설정하는 방법
-</h1>
 
 ### 문제
 

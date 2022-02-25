@@ -1,17 +1,12 @@
 ---
-layout: post
-comments: true
-title: header의 date에 대한 실험
-date:   2015-06-09 16:30:00 +0900
-author: PJH
-categories: "Blog"
-tags: "Blog"
-cover:
+layout:     post
+comments:   true
+title:      "header의 date에 대한 실험"
+date:       2015-06-09 +0900
+author:     PJH
+# categories: [blog]
+tags:       [blog, jekyll]
 ---
-
-<h1>
-header의 date에 대한 실험
-</h1>
 
 헤더에 들어있는 date를 없애도 문제없이 돌아가는지 확인용.
 
