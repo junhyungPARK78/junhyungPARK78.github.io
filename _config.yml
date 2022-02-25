@@ -2,7 +2,7 @@
 title:               PJH’s BLOG
 tagline:             '이런저런 노하우 공유용 블로그!'
 description:         '이런저런 노하우 공유용 블로그!'
-url:                 http://junhyungpark78.github.io
+url:                 https://junhyungpark78.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
