@@ -49,7 +49,8 @@ title: Home
       {% endif %}
     </span>
 
-    {{ post.content | strip_html | truncatewords: 20 }} <!-- 「truncatewords」：미리보기 본문 단어 수 제한 -->
+    {{ post.content | strip_html | truncate: 50 }} <!-- 「truncatewords」：미리보기 본문 글자 수 제한 -->
+    <!--{{ post.content | strip_html | truncatewords: 20 }} <!-- 「truncatewords」：미리보기 본문 단어 수 제한 --> -->
 
     <!-- DISQUS 덧글 수 표시하기 기능 시작 -->
     <div>
