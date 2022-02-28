@@ -4,7 +4,7 @@ comments:   true
 title:      "GITHub와 jekyll을 이용한 첫 블로깅"
 date:       2015-06-09 +0900
 author:     PJH
-# categories: [Dummy]
+categories: [blog]
 tags:       [blog, github, jekyll]
 ---
 
