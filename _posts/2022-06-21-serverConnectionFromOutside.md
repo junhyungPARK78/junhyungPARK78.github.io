@@ -8,7 +8,7 @@ author:     PJH
 tags:       [python, programming]
 ---
 
-![title](2022-06-21-serverConnectionFromOutside_001.png){: width="125px"}
+![title](/assets/images/2022-06-21-serverConnectionFromOutside_001.png){: width="125px"}
 
 파이썬 공부하면서 flask로 가볍게 만들어 둔 서버로 외부에서 접속할 필요가 생겼다.
 여러가지 방법이 있지만 그냥 간단하게 할 수 있는 **localtunnel** 서비스를 알게 되었다.
