@@ -15,10 +15,10 @@ spine作業の後、実際のゲームで使うためにはexportをする必要
 
 1. exportのオプションは２つがある。
 1. イメージをatlas化する際に必要なオプション
-  [![](https://www.dropbox.com/s/symkj51r2p78afr/texturepacker.png?raw=1)](https://www.dropbox.com/s/symkj51r2p78afr/texturepacker.png?raw=1)
+  ![](/assets/images/2018-08-29-SpineDataExport/001.png)
 
 1. spineファイルをexportする際に必要なオプション
-  [![](https://www.dropbox.com/s/kdsiwjibr6vtmt2/export.png?raw=1)](https://www.dropbox.com/s/kdsiwjibr6vtmt2/export.png?raw=1)
+  ![](/assets/images/2018-08-29-SpineDataExport/002.png)
 
 1. この中で作業者が共有するオプションは「spineファイルをexportする際に必要なオプション」の方。
 

@@ -47,4 +47,4 @@ tags:       [python, programming]
 
 flask 서버도 대응하고, 외부 도메인 연결도 가능해지니, 여러모로 할 수 있는 범위가 늘어났다!
 
-![](https://www.dropbox.com/s/cbrqu33173gdbod/gutspose_man.png?raw=1){: width="200px"}
+![](/assets/images/2022-06-21-serverConnectionFromOutside/002.png){: width="200px"}
