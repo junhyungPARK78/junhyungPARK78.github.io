@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="330" viewBox="0 0 640 330" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,Menlo,monospace">
+        <rect width="640" height="330" fill="#000"/>
+        <text x="24" y="40" font-size="16" fill="#e8b33a">Use metal post with slab-IV</text>
+        <text x="24" y="60" font-size="11" fill="#7a7f88" font-family="sans-serif">↑ 동사 + 인벤토리 + 대상 이 조립되어 실행된다</text>
+        <g font-size="15" fill="#4fe07a">
+          <text x="24" y="100">Push</text><text x="150" y="100">Open</text><text x="276" y="100">Walk to</text><text x="420" y="100">Use</text>
+          <text x="24" y="130">Pull</text><text x="150" y="130">Close</text><text x="276" y="130">Pick up</text><text x="420" y="130">Turn on</text>
+          <text x="24" y="160">Give</text><text x="150" y="160">Look</text><text x="276" y="160">What is</text><text x="420" y="160">Turn off</text>
+        </g>
+        <rect x="14" y="80" width="380" height="94" rx="5" fill="none" stroke="#2b6e42" stroke-dasharray="4 4"/>
+        <text x="18" y="192" font-size="11" fill="#4fe07a" font-family="sans-serif">동사 12개</text>
+        <rect x="410" y="80" width="212" height="94" rx="5" fill="none" stroke="#2b6e42" stroke-dasharray="4 4"/>
+        <g font-size="15" fill="#c9a0e8">
+          <text x="24" y="220">whip</text><text x="24" y="248">Mein Kampf</text><text x="24" y="276">red cordon</text>
+          <text x="330" y="220">manual</text><text x="330" y="248">book of maps</text><text x="330" y="276">metal post</text>
+        </g>
+        <polygon points="310,212 320,218 310,224" fill="#6aa8e8"/>
+        <rect x="14" y="200" width="608" height="90" rx="5" fill="none" stroke="#6b4a8a" stroke-dasharray="4 4"/>
+        <text x="18" y="308" font-size="11" fill="#c9a0e8" font-family="sans-serif">인벤토리 (스크롤 화살표로 페이지 이동)</text>
+        <text x="380" y="308" font-size="11" fill="#7a7f88" font-family="sans-serif">「What is」로 책장의 책을 하나씩 특정할 수 있다</text>
+      </svg>

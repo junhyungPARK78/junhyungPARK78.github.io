@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="320" fill="#101116"/>
+        <path d="M60 60 H420 V120 H180 V280 H60 Z" fill="#22242b" stroke="#5b6270" stroke-width="2"/>
+        <text x="240" y="96" font-size="11" fill="#9aa0ab">복도 (L자)</text>
+        <g>
+          <rect x="100" y="46" width="52" height="14" fill="#a8763a"/><text x="126" y="38" font-size="11" fill="#9aa0ab" text-anchor="middle">문 A</text>
+          <rect x="200" y="46" width="52" height="14" fill="#a8763a"/><text x="226" y="38" font-size="11" fill="#e8b33a" text-anchor="middle">문 B</text>
+          <rect x="300" y="46" width="52" height="14" fill="#a8763a"/><text x="326" y="38" font-size="11" fill="#9aa0ab" text-anchor="middle">문 C</text>
+        </g>
+        <g stroke="#e2686a" stroke-width="3" fill="none">
+          <path d="M204 44 q22 -14 44 0"/><path d="M204 38 q22 -14 44 0"/>
+        </g>
+        <text x="226" y="20" font-size="11.5" fill="#e2686a" text-anchor="middle">붉은 배선 2줄 ← 이 문</text>
+        <path d="M226 70 v34" stroke="#e8b33a" stroke-width="3" marker-end="url(#ar3)"/>
+        <defs><marker id="ar3" markerWidth="9" markerHeight="9" refX="4" refY="8" orient="auto"><path d="M0 0 L8 0 L4 9z" fill="#e8b33a"/></marker></defs>
+        <rect x="360" y="140" width="260" height="150" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="374" y="166" font-size="12.5" fill="#e8b33a">판별법</text>
+        <text x="374" y="190" font-size="12" fill="#cfd3da">문 3개 모두 잠겨 있다. 가까이 가서</text>
+        <text x="374" y="210" font-size="12" fill="#cfd3da">문 위쪽을 보면 <tspan fill="#e2686a">붉은 배선</tspan>이</text>
+        <text x="374" y="230" font-size="12" fill="#cfd3da">지나가는 문이 하나 있다 = 헨리</text>
+        <text x="374" y="256" font-size="12" fill="#cfd3da"><tspan fill="#e8b33a">은 열쇠</tspan>로 연다 → 경보 작동</text>
+        <text x="374" y="276" font-size="12" fill="#cfd3da">→ 포겔 등장 (분기 선택 지점)</text>
+        <text x="70" y="300" font-size="11" fill="#9aa0ab">※ 배선은 회차와 무관하게 고정</text>
+      </svg>

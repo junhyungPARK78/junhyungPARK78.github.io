@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="360" fill="#101116"/>
+        <path d="M40 60 q280 -40 560 0 v190 h-560z" fill="#5a4222" stroke="#8a7c58" stroke-width="2"/>
+        <text x="96" y="52" font-size="13" fill="#e2686a" font-weight="700">APU</text>
+        <g><circle cx="120" cy="98" r="26" fill="#20222a" stroke="#c9cdd6" stroke-width="2"/>
+          <text x="120" y="94" font-size="10" fill="#c9cdd6" text-anchor="middle">1 2 3 4</text>
+          <line x1="120" y1="98" x2="106" y2="112" stroke="#e2686a" stroke-width="2"/>
+          <text x="120" y="140" font-size="10.5" fill="#e8b33a" text-anchor="middle">APU 미터</text></g>
+        <g><circle cx="250" cy="94" r="26" fill="#14161c" stroke="#c9cdd6" stroke-width="2"/>
+          <path d="M236 94 l7 -8 l7 12 l7 -12 l7 8" stroke="#e6e6ea" fill="none" stroke-width="2"/></g>
+        <g><circle cx="368" cy="94" r="26" fill="#20222a" stroke="#c9cdd6" stroke-width="2"/>
+          <text x="368" y="90" font-size="10" fill="#c9cdd6" text-anchor="middle">2 3 4</text>
+          <line x1="368" y1="94" x2="356" y2="82" stroke="#e8b33a" stroke-width="2"/></g>
+        <g><rect x="450" y="70" width="106" height="56" rx="4" fill="#c9cdd6"/>
+          <path d="M478 82 l16 22 h-24z" fill="#3a3d45"/><rect x="496" y="92" width="34" height="8" rx="4" fill="#3a3d45"/>
+          <text x="503" y="120" font-size="10" fill="#20222a" text-anchor="middle" font-weight="700">PETROL</text>
+          <circle cx="464" cy="66" r="11" fill="#e8b33a"/><text x="464" y="70" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">4</text></g>
+        <g><circle cx="106" cy="176" r="22" fill="#20222a" stroke="#c9cdd6" stroke-width="2"/>
+          <path d="M106 176 L128 176 A22 22 0 0 0 118 158 Z" fill="#5bc98a"/>
+          <path d="M106 176 L118 158 A22 22 0 0 0 96 156 Z" fill="#e8b33a"/>
+          <path d="M106 176 L96 156 A22 22 0 0 0 86 172 Z" fill="#e2686a"/></g>
+        <g><path d="M196 168 q22 -14 30 10 q-14 16 -30 -10z" fill="#c9cdd6"/>
+          <circle cx="196" cy="152" r="11" fill="#e8b33a"/><text x="196" y="156" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">2</text>
+          <text x="216" y="200" font-size="10.5" fill="#e8b33a" text-anchor="middle">초크 ×3</text></g>
+        <g><circle cx="300" cy="186" r="34" fill="none" stroke="#c9cdd6" stroke-width="6"/>
+          <circle cx="322" cy="164" r="7" fill="#e2686a"/>
+          <rect x="296" y="220" width="8" height="34" fill="#c9cdd6"/>
+          <text x="300" y="268" font-size="10.5" fill="#9aa0ab" text-anchor="middle">조종간</text></g>
+        <g><path d="M386 158 h44 l-8 34 h-28z" fill="#c9cdd6"/>
+          <text x="392" y="172" font-size="10" fill="#20222a">L</text><text x="406" y="170" font-size="10" fill="#20222a">R</text><text x="420" y="172" font-size="10" fill="#20222a">B</text>
+          <line x1="408" y1="186" x2="420" y2="170" stroke="#e2686a" stroke-width="2"/>
+          <circle cx="430" cy="196" r="11" fill="#e8b33a"/><text x="430" y="200" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">5</text>
+          <text x="408" y="212" font-size="10.5" fill="#e8b33a" text-anchor="middle">B 위치로</text></g>
+        <g><rect x="62" y="212" width="26" height="26" rx="4" fill="#9aa0ab"/><rect x="72" y="200" width="6" height="16" fill="#9aa0ab"/>
+          <circle cx="52" cy="204" r="11" fill="#e8b33a"/><text x="52" y="208" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">6</text>
+          <text x="76" y="256" font-size="10.5" fill="#e8b33a" text-anchor="middle">스로틀</text></g>
+        <g>
+          <rect x="470" y="150" width="110" height="96" rx="5" fill="#8f959f"/>
+          <g fill="#3a3d45">
+            <rect x="482" y="160" width="26" height="20" rx="3"/><rect x="518" y="160" width="26" height="20" rx="3"/>
+            <rect x="482" y="188" width="26" height="20" rx="3"/><rect x="518" y="188" width="26" height="20" rx="3"/>
+            <rect x="482" y="216" width="26" height="20" rx="3"/><rect x="518" y="216" width="26" height="20" rx="3"/>
+          </g>
+          <circle cx="556" cy="170" r="9" fill="#e2686a" stroke="#fff" stroke-width="2"/>
+          <circle cx="556" cy="144" r="11" fill="#e8b33a"/><text x="556" y="148" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">8</text>
+          <circle cx="531" cy="146" r="11" fill="#e8b33a"/><text x="531" y="150" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">7</text>
+          <circle cx="462" cy="198" r="11" fill="#e8b33a"/><text x="462" y="202" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">1</text>
+          <circle cx="556" cy="226" r="11" fill="#e8b33a"/><text x="556" y="230" font-size="12" fill="#101116" text-anchor="middle" font-weight="700">3</text>
+          <text x="525" y="262" font-size="10.5" fill="#e8b33a" text-anchor="middle">6개 스위치</text>
+        </g>
+        <rect x="20" y="286" width="600" height="62" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="34" y="308" font-size="12" fill="#cfd3da">① APU 스위치 ② 초크 3회 ③ 오일펌프 ④ PETROL ⑤ 마그네토 B ⑥ 스로틀 ⑦ 스타터 모터</text>
+        <text x="34" y="332" font-size="12" fill="#e8b33a">⑧ APU 미터 바늘이 <tspan font-weight="700">3</tspan>에 오면 빨간 시동 버튼 — 늦으면 발각되어 비행선 루트로</text>
+      </svg>

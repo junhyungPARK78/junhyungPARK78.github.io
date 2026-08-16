@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="360" fill="#101116"/>
+        <text x="20" y="28" font-size="13" fill="#5bc98a">성배일기 좌측 = "correct" (정답)</text>
+        <text x="340" y="28" font-size="13" fill="#e2686a">우측 = "certain death" (즉사)</text>
+        <g>
+          <rect x="24" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <rect x="90" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <rect x="156" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <circle cx="50" cy="66" r="9" fill="#8d939e"/><rect x="42" y="80" width="16" height="42" fill="#8d939e"/>
+          <circle cx="116" cy="66" r="9" fill="#8d939e"/><path d="M104 82 h24 v40 h-24z" fill="#8d939e"/>
+          <circle cx="182" cy="66" r="9" fill="#8d939e"/><path d="M182 80 l14 42 h-28z" fill="#8d939e"/>
+          <rect x="344" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <rect x="410" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <rect x="476" y="40" width="52" height="96" rx="5" fill="#2a2c33" stroke="#5b6270"/>
+          <circle cx="370" cy="66" r="9" fill="#6d737e"/><path d="M370 80 l14 42 h-28z" fill="#6d737e"/>
+          <circle cx="436" cy="66" r="9" fill="#6d737e"/><rect x="428" y="80" width="16" height="42" fill="#6d737e"/>
+          <circle cx="502" cy="66" r="9" fill="#6d737e"/><path d="M490 82 h24 v40 h-24z" fill="#6d737e"/>
+        </g>
+        <text x="20" y="156" font-size="11" fill="#9aa0ab">※ 문양은 회차마다 다름 — 배치 자체가 아니라 "일기와 같게 맞추기"가 규칙</text>
+        <rect x="20" y="176" width="600" height="120" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="34" y="200" font-size="13" fill="#e8b33a">연동 규칙 — 이걸 모르면 절대 못 맞춘다</text>
+        <g>
+          <rect x="40" y="216" width="70" height="52" rx="5" fill="#2a2c33" stroke="#5b6270"/><text x="75" y="246" font-size="12" fill="#c9cdd6" text-anchor="middle">왼쪽</text>
+          <rect x="150" y="216" width="70" height="52" rx="5" fill="#2a2c33" stroke="#5b6270"/><text x="185" y="246" font-size="12" fill="#c9cdd6" text-anchor="middle">가운데</text>
+          <rect x="260" y="216" width="70" height="52" rx="5" fill="#2a2c33" stroke="#5b6270"/><text x="295" y="246" font-size="12" fill="#c9cdd6" text-anchor="middle">오른쪽</text>
+        </g>
+        <path d="M262 210 q-88 -22 -178 0" stroke="#e2686a" stroke-width="2" fill="none" marker-end="url(#ar1)"/>
+        <path d="M152 276 q-30 20 -68 0" stroke="#e8b33a" stroke-width="2" fill="none" marker-end="url(#ar2)"/>
+        <defs>
+          <marker id="ar1" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8z" fill="#e2686a"/></marker>
+          <marker id="ar2" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8z" fill="#e8b33a"/></marker>
+        </defs>
+        <text x="360" y="228" font-size="12" fill="#e2686a">오른쪽을 밀면 → 왼쪽도 1회 바뀜</text>
+        <text x="360" y="250" font-size="12" fill="#e8b33a">왼쪽을 밀면 → 가운데도 바뀜</text>
+        <text x="360" y="272" font-size="12" fill="#5bc98a">가운데는 다른 둘에 영향 없음</text>
+        <rect x="20" y="308" width="600" height="36" rx="6" fill="#1c2a20" stroke="#2b6e42"/>
+        <text x="34" y="331" font-size="13" fill="#7fe0a8">해결 순서 : ① 오른쪽 → ② 왼쪽 → ③ 가운데</text>
+      </svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="300" viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="300" fill="#101116"/>
+        <rect x="24" y="40" width="592" height="150" rx="8" fill="#191a1f" stroke="#33363f"/>
+        <text x="36" y="30" font-size="12" fill="#e8b33a">2층 그림 보관실 (복도 끝 문)</text>
+        <path d="M540 40 L540 190" stroke="#5b6270" stroke-width="2"/>
+        <text x="578" y="120" font-size="11" fill="#9aa0ab" text-anchor="middle">입구</text>
+        <text x="578" y="136" font-size="11" fill="#9aa0ab" text-anchor="middle">계단</text>
+        <g><rect x="420" y="70" width="90" height="90" rx="4" fill="#2a2c33" stroke="#5b6270"/>
+          <text x="465" y="120" font-size="11" fill="#9aa0ab" text-anchor="middle">그림 더미</text></g>
+        <g><rect x="250" y="70" width="90" height="90" rx="4" fill="#2a2c33" stroke="#5b6270"/>
+          <text x="295" y="120" font-size="11" fill="#9aa0ab" text-anchor="middle">조각상·상자</text></g>
+        <g>
+          <rect x="54" y="62" width="106" height="106" rx="4" fill="#3a3226" stroke="#e8b33a" stroke-width="2"/>
+          <circle cx="107" cy="98" r="17" fill="#c9b393"/><path d="M86 168 q21 -40 42 0z" fill="#26303a"/>
+          <text x="107" y="188" font-size="11.5" fill="#e8b33a" text-anchor="middle">모나리자 (대형)</text>
+        </g>
+        <text x="200" y="118" font-size="26" fill="#5bc98a">←</text>
+        <text x="196" y="140" font-size="11" fill="#5bc98a">Push</text>
+        <rect x="24" y="208" width="592" height="72" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="38" y="232" font-size="12.5" fill="#cfd3da">① 좌측 끝까지 이동 → ② 모나리자에 <tspan fill="#5bc98a">Push</tspan> → 그림이 밀려나며 금고 노출</text>
+        <text x="38" y="254" font-size="12.5" fill="#cfd3da">③ <tspan fill="#e8b33a">패스(pass)</tspan>가 있어야 열림 — 포겔 사무실 서랍에서 미리 획득할 것</text>
+        <text x="38" y="272" font-size="11.5" fill="#9aa0ab">전제: 헨리 집의 그림을 2층 경비병에게 줬어야 금고 번호가 생성된다</text>
+      </svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="400" viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="400" fill="#101116"/>
+        <text x="16" y="24" font-size="12" fill="#e8b33a">상층 (Upper)</text>
+        <line x1="16" y1="32" x2="624" y2="32" stroke="#33363f"/>
+        <g stroke="#5b6270" stroke-width="2" fill="none">
+          <path d="M62 70 L128 70"/><path d="M158 70 L206 70"/><path d="M236 70 L284 70"/>
+          <path d="M314 70 L362 70"/><path d="M392 70 L440 70"/>
+          <path d="M206 84 L206 120 L120 120 L120 150"/>
+        </g>
+        <g font-size="13" fill="#101116" text-anchor="middle">
+          <circle cx="44" cy="70" r="18" fill="#e8b33a"/><text x="44" y="75">1</text>
+          <circle cx="142" cy="70" r="18" fill="#c9cdd6"/><text x="142" y="75">2</text>
+          <circle cx="220" cy="70" r="18" fill="#c9cdd6"/><text x="220" y="75">3</text>
+          <circle cx="298" cy="70" r="18" fill="#c9cdd6"/><text x="298" y="75">4</text>
+          <circle cx="376" cy="70" r="18" fill="#6aa8e8"/><text x="376" y="75">5</text>
+          <circle cx="454" cy="70" r="18" fill="#5bc98a"/><text x="454" y="75">6</text>
+        </g>
+        <g font-size="10.5" fill="#9aa0ab" text-anchor="middle">
+          <text x="95" y="60">왼쪽·직진</text><text x="182" y="60">자주·위·우</text><text x="260" y="60">나무문·우</text><text x="338" y="60">분기·녹</text><text x="416" y="60">분기·청→녹</text>
+          <text x="44" y="104">입구(슬랩)</text><text x="376" y="104">물에 잠김</text><text x="454" y="104">하수관·맨홀</text>
+        </g>
+        <rect x="500" y="52" width="120" height="36" rx="6" fill="#1c2a20" stroke="#2b6e42"/>
+        <text x="560" y="75" font-size="12" fill="#7fe0a8" text-anchor="middle">지상 테라스 ⇅</text>
+        <text x="150" y="146" font-size="11" fill="#e2686a">동굴3 횃불 당김 → 하층 낙하</text>
+        <text x="16" y="182" font-size="12" fill="#e8b33a">하층 (Lower)</text>
+        <line x1="16" y1="190" x2="624" y2="190" stroke="#33363f"/>
+        <g stroke="#5b6270" stroke-width="2" fill="none">
+          <path d="M120 150 L120 214"/><path d="M148 226 L206 226"/><path d="M236 226 L300 226"/><path d="M300 226 L300 260 L60 260 L60 84"/>
+        </g>
+        <g font-size="12" fill="#101116" text-anchor="middle">
+          <rect x="82" y="212" width="66" height="28" rx="14" fill="#c9cdd6"/><text x="115" y="231">돌다리</text>
+          <rect x="176" y="212" width="66" height="28" rx="14" fill="#e8b33a"/><text x="209" y="231">비문방</text>
+          <rect x="270" y="212" width="66" height="28" rx="14" fill="#c9cdd6"/><text x="303" y="231">사다리</text>
+        </g>
+        <text x="209" y="256" font-size="10.5" fill="#e8b33a" text-anchor="middle">★ 성배 후보 2개 메모</text>
+        <text x="360" y="231" font-size="11" fill="#9aa0ab">갈고리+채찍으로 마개 뽑기 → 동굴5 배수 → 사다리로 동굴4 복귀</text>
+        <text x="16" y="300" font-size="12" fill="#e8b33a">배수 후 (상층 안쪽)</text>
+        <line x1="16" y1="308" x2="624" y2="308" stroke="#33363f"/>
+        <g stroke="#5b6270" stroke-width="2" fill="none">
+          <path d="M84 348 L128 348"/><path d="M180 348 L224 348"/><path d="M280 348 L324 348"/><path d="M380 348 L424 348"/><path d="M488 348 L520 348"/>
+        </g>
+        <g font-size="11.5" fill="#101116" text-anchor="middle">
+          <rect x="18" y="334" width="66" height="28" rx="14" fill="#6aa8e8"/><text x="51" y="353">5 배수</text>
+          <rect x="128" y="334" width="52" height="28" rx="14" fill="#c9cdd6"/><text x="154" y="353">7 기계</text>
+          <rect x="224" y="334" width="56" height="28" rx="14" fill="#c9cdd6"/><text x="252" y="353">8 석상</text>
+          <rect x="324" y="334" width="56" height="28" rx="14" fill="#c9cdd6"/><text x="352" y="353">9 다리</text>
+          <rect x="424" y="334" width="64" height="28" rx="14" fill="#c9cdd6"/><text x="456" y="353">10 해골</text>
+          <rect x="520" y="334" width="66" height="28" rx="14" fill="#e8b33a"/><text x="553" y="353">묘실</text>
+        </g>
+        <text x="154" y="378" font-size="10" fill="#9aa0ab" text-anchor="middle">코돈+바퀴</text>
+        <text x="252" y="378" font-size="10" fill="#9aa0ab" text-anchor="middle">배치 맞춤</text>
+        <text x="352" y="378" font-size="10" fill="#9aa0ab" text-anchor="middle">도개교 하강</text>
+        <text x="456" y="378" font-size="10" fill="#9aa0ab" text-anchor="middle">악보 순서</text>
+        <text x="553" y="378" font-size="10" fill="#9aa0ab" text-anchor="middle">기사 방패</text>
+      </svg>

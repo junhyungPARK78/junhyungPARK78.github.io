@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="320" fill="#101116"/>
+        <text x="20" y="28" font-size="13" fill="#e8b33a">금고 벽의 성배 그림 — 두 가지 중 하나가 나온다</text>
+        <g>
+          <rect x="40" y="48" width="240" height="180" rx="6" fill="#2a2418" stroke="#8a7c58" stroke-width="4"/>
+          <g opacity=".85"><circle cx="160" cy="128" r="56" fill="#e8b33a" opacity=".18"/><circle cx="160" cy="128" r="38" fill="#e8b33a" opacity=".28"/></g>
+          <g stroke="#e8b33a" stroke-width="2">
+            <line x1="160" y1="60" x2="160" y2="78"/><line x1="106" y1="128" x2="88" y2="128"/>
+            <line x1="214" y1="128" x2="232" y2="128"/><line x1="120" y1="88" x2="108" y2="76"/><line x1="200" y1="88" x2="212" y2="76"/>
+          </g>
+          <path d="M138 108 h44 v22 q0 22 -22 22 q-22 0 -22 -22z" fill="#f0d089"/>
+          <rect x="154" y="152" width="12" height="20" fill="#f0d089"/><rect x="140" y="172" width="40" height="8" rx="3" fill="#f0d089"/>
+          <text x="160" y="212" font-size="14" fill="#e8b33a" text-anchor="middle" font-weight="700">광채 있음</text>
+        </g>
+        <g>
+          <rect x="360" y="48" width="240" height="180" rx="6" fill="#2a2418" stroke="#8a7c58" stroke-width="4"/>
+          <path d="M458 108 h44 v22 q0 22 -22 22 q-22 0 -22 -22z" fill="#9aa0ab"/>
+          <rect x="474" y="152" width="12" height="20" fill="#9aa0ab"/><rect x="460" y="172" width="40" height="8" rx="3" fill="#9aa0ab"/>
+          <text x="480" y="212" font-size="14" fill="#9aa0ab" text-anchor="middle" font-weight="700">광채 없음</text>
+        </g>
+        <rect x="40" y="244" width="560" height="60" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="54" y="268" font-size="12.5" fill="#cfd3da">그림의 <tspan font-weight="700">모양·재질은 정답과 무관</tspan>하다. 오직 광채 유무만 기록할 것.</text>
+        <text x="54" y="290" font-size="12.5" fill="#cfd3da">비문에서 얻은 후보 2개 + 이 광채 유무 → 04번 표에서 정답 성배 1개 확정</text>
+      </svg>
