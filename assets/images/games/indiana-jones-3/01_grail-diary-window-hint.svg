@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="330" viewBox="0 0 640 330" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="330" fill="#101116"/>
+        <rect x="20" y="20" width="600" height="230" rx="6" fill="#d8d2c4"/>
+        <line x1="320" y1="20" x2="320" y2="250" stroke="#b3ab99" stroke-width="3"/>
+        <text x="40" y="52" font-size="13" fill="#3a3830">방패·그 위 영역·천사들을 그린</text>
+        <text x="40" y="72" font-size="13" fill="#3a3830">방식에 주목하라.</text>
+        <text x="40" y="104" font-size="13" fill="#3a3830">아래의 암호 같은 문구는</text>
+        <text x="40" y="124" font-size="13" fill="#3a3830">로마 숫자와 돌기둥에 관한</text>
+        <text x="40" y="144" font-size="13" fill="#3a3830">것으로 보인다.</text>
+        <rect x="36" y="166" width="250" height="26" rx="4" fill="#c9c0ac"/>
+        <text x="44" y="184" font-size="11" fill="#5a5648">← 좌측 페이지: 판독 안내(고정)</text>
+        <!-- 창 -->
+        <path d="M400 46 q60 -26 120 0 v120 h-120 z" fill="#b9a97e" stroke="#8a7c58" stroke-width="3"/>
+        <path d="M414 60 q46 -20 92 0 v92 h-92 z" fill="#cfc39c"/>
+        <rect x="448" y="86" width="24" height="60" fill="#8a7c58"/>
+        <rect x="436" y="102" width="48" height="12" fill="#8a7c58"/>
+        <circle cx="460" cy="72" r="9" fill="#8a7c58"/>
+        <text x="404" y="186" font-size="11" fill="#5a5648">창 문양 = 도서관에서 찾을 그 창</text>
+        <rect x="392" y="196" width="212" height="44" rx="4" fill="#c9c0ac"/>
+        <text x="402" y="214" font-size="12" fill="#3a3830" font-style="italic">"If ye would enter,</text>
+        <text x="402" y="232" font-size="12" fill="#3a3830" font-style="italic">follow the third on the right."</text>
+        <!-- 해설 -->
+        <rect x="20" y="262" width="600" height="52" rx="6" fill="#181a20" stroke="#33363f"/>
+        <text x="34" y="282" font-size="12.5" fill="#e8b33a">판독 3단계</text>
+        <text x="34" y="302" font-size="12" fill="#cfd3da">① 창 그림 기억 → ② 홀마다 Look, "JUST like"가 나오면 정답 창 → ③ 문구가 가리키는 기둥·순번의 로마 숫자</text>
+        <rect x="520" y="262" width="100" height="22" rx="11" fill="#3a341f"/>
+        <text x="534" y="277" font-size="11" fill="#e6cd7a">매번 랜덤</text>
+      </svg>

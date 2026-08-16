@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="340" viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="340" fill="#101116"/>
+        <text x="20" y="26" font-size="12.5" fill="#e8b33a">인디의 대사에서 철자를 확인 → 그 글자 타일만 밟는다</text>
+        <rect x="20" y="36" width="600" height="26" rx="4" fill="#1a1a1f"/>
+        <text x="32" y="54" font-size="12" fill="#cfd3da">"In Tuskin, Jehovah is spelled <tspan fill="#e8b33a">JEHOBA</tspan>."  ← 회차마다 IEHOVA / JEHUVA 등으로 달라짐</text>
+        <g font-size="13" text-anchor="middle">
+          <!-- row1 -->
+          <g fill="#2a2c33"><rect x="40" y="76" width="44" height="40" rx="3"/><rect x="92" y="76" width="44" height="40" rx="3"/><rect x="144" y="76" width="44" height="40" rx="3"/><rect x="196" y="76" width="44" height="40" rx="3"/><rect x="248" y="76" width="44" height="40" rx="3"/><rect x="300" y="76" width="44" height="40" rx="3"/></g>
+          <g fill="#8d939e"><text x="62" y="102">Q</text><text x="114" y="102">M</text><text x="166" y="102">T</text><text x="218" y="102">Z</text><text x="270" y="102">D</text><text x="322" y="102">K</text></g>
+          <!-- row2 -->
+          <g fill="#2a2c33"><rect x="40" y="122" width="44" height="40" rx="3"/><rect x="144" y="122" width="44" height="40" rx="3"/><rect x="248" y="122" width="44" height="40" rx="3"/><rect x="300" y="122" width="44" height="40" rx="3"/></g>
+          <g fill="#1f3a2b"><rect x="92" y="122" width="44" height="40" rx="3"/><rect x="196" y="122" width="44" height="40" rx="3"/></g>
+          <g fill="#8d939e"><text x="62" y="148">X</text><text x="166" y="148">P</text><text x="270" y="148">R</text><text x="322" y="148">L</text></g>
+          <g fill="#7fe0a8" font-weight="700"><text x="114" y="148">J</text><text x="218" y="148">E</text></g>
+          <!-- row3 -->
+          <g fill="#2a2c33"><rect x="40" y="168" width="44" height="40" rx="3"/><rect x="92" y="168" width="44" height="40" rx="3"/><rect x="196" y="168" width="44" height="40" rx="3"/><rect x="300" y="168" width="44" height="40" rx="3"/></g>
+          <g fill="#1f3a2b"><rect x="144" y="168" width="44" height="40" rx="3"/><rect x="248" y="168" width="44" height="40" rx="3"/></g>
+          <g fill="#8d939e"><text x="62" y="194">W</text><text x="114" y="194">N</text><text x="218" y="194">C</text><text x="322" y="194">S</text></g>
+          <g fill="#7fe0a8" font-weight="700"><text x="166" y="194">H</text><text x="270" y="194">O</text></g>
+          <!-- row4 -->
+          <g fill="#2a2c33"><rect x="40" y="214" width="44" height="40" rx="3"/><rect x="92" y="214" width="44" height="40" rx="3"/><rect x="144" y="214" width="44" height="40" rx="3"/><rect x="248" y="214" width="44" height="40" rx="3"/></g>
+          <g fill="#1f3a2b"><rect x="196" y="214" width="44" height="40" rx="3"/><rect x="300" y="214" width="44" height="40" rx="3"/></g>
+          <g fill="#8d939e"><text x="62" y="240">G</text><text x="114" y="240">V</text><text x="166" y="240">F</text><text x="270" y="240">Y</text></g>
+          <g fill="#7fe0a8" font-weight="700"><text x="218" y="240">B</text><text x="322" y="240">A</text></g>
+        </g>
+        <path d="M114 142 L218 142 L166 188 L270 188 L218 234 L322 234" stroke="#e8b33a" stroke-width="3" fill="none" stroke-linejoin="round"/>
+        <circle cx="114" cy="142" r="6" fill="#e8b33a"/><circle cx="322" cy="234" r="6" fill="#e8b33a"/>
+        <text x="392" y="100" font-size="12.5" fill="#e8b33a">규칙</text>
+        <text x="392" y="126" font-size="12" fill="#cfd3da">• 철자에 있는 글자 타일만 밟는다</text>
+        <text x="392" y="150" font-size="12" fill="#cfd3da">• <tspan fill="#e2686a">타일을 건너뛸 수 없다</tspan> — 인접 이동만</text>
+        <text x="392" y="174" font-size="12" fill="#cfd3da">• 같은 글자가 여러 곳이면 이어지는 쪽</text>
+        <text x="392" y="198" font-size="12" fill="#cfd3da">• 안전한 칸마다 세이브 (ScummVM)</text>
+        <text x="392" y="222" font-size="12" fill="#cfd3da">• 잘못 밟으면 즉사 → 1관문부터</text>
+        <rect x="20" y="276" width="600" height="52" rx="8" fill="#16171c" stroke="#33363f"/>
+        <text x="34" y="298" font-size="12" fill="#9aa0ab">※ 위 격자는 <tspan font-weight="700">규칙 설명용 예시</tspan>다. 실제 배열·철자는 회차마다 다르므로</text>
+        <text x="34" y="318" font-size="12" fill="#9aa0ab">   원본 스샷의 1~22 경로를 따라해도 맞지 않는다.</text>
+      </svg>

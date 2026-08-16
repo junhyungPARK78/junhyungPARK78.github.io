@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="360" fill="#101116"/>
+        <rect x="16" y="14" width="608" height="40" rx="6" fill="#1a1a1f" stroke="#33363f"/>
+        <text x="28" y="32" font-size="12" fill="#e8b33a">비문 자막 형식</text>
+        <text x="28" y="48" font-size="12" fill="#cfd3da">"Either 〈출처 A〉, or 〈출처 B〉, is the correct account for the Grail"</text>
+        <g font-size="11.5">
+          <rect x="16" y="64" width="608" height="26" fill="#1a1a1f"/>
+          <text x="26" y="82" fill="#9aa0ab">비문에 나온 출처 쌍</text>
+          <text x="382" y="82" fill="#e8b33a">그림 광채 O</text>
+          <text x="516" y="82" fill="#6aa8e8">그림 광채 X</text>
+        </g>
+        <g font-size="11" fill="#cfd3da">
+          <rect x="16" y="90" width="608" height="42" fill="#16171c"/>
+          <text x="26" y="107">아일랜드 시 / Celtic Scholar 스크랩</text>
+          <text x="382" y="107" fill="#e8b33a">④ 나무 잔(상징 새김)</text><text x="516" y="107" fill="#6aa8e8">① 올리브 나무 잔</text>
+          <rect x="16" y="132" width="608" height="42" fill="#1a1b21"/>
+          <text x="26" y="149">Codirolli 전보 / 비잔틴 상인 일지</text>
+          <text x="382" y="149" fill="#e8b33a">③ 큰 도자기 잔</text><text x="516" y="149" fill="#6aa8e8">⑦ 장식없는 금속 잔</text>
+          <rect x="16" y="174" width="608" height="42" fill="#16171c"/>
+          <text x="26" y="191">Taliesin 웨일스 시 / Burton 이야기</text>
+          <text x="382" y="191" fill="#e8b33a">⑤ 은 사발(주문 새김)</text><text x="516" y="191" fill="#6aa8e8">⑧ 도자기 사발</text>
+          <rect x="16" y="216" width="608" height="42" fill="#1a1b21"/>
+          <text x="26" y="233">Hildegard 수녀원장 / New Gospel 칼럼</text>
+          <text x="382" y="233" fill="#e8b33a">⑨ 얕은 청동 그릇</text><text x="516" y="233" fill="#6aa8e8">⑥ 놋쇠 성배(그리스어)</text>
+          <rect x="16" y="258" width="608" height="42" fill="#16171c"/>
+          <text x="26" y="275">페르시아 필사본 / Staubig 편지</text>
+          <text x="382" y="275" fill="#e8b33a">② 백랍 사발(문양)</text><text x="516" y="275" fill="#6aa8e8">⑩ 백랍 성배(아람어)</text>
+        </g>
+        <rect x="16" y="310" width="608" height="36" rx="6" fill="#2a1f1f" stroke="#5a3030"/>
+        <text x="28" y="333" font-size="12" fill="#eda0a0">⚠ 갈고리·채찍으로 마개를 먼저 뽑으면 이 비문을 영영 읽을 수 없다</text>
+      </svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="360" fill="#101116"/>
+        <text x="20" y="26" font-size="12.5" fill="#e8b33a">1) 일기의 오선 — 줄을 위에서부터 1~6으로 번호 매긴다</text>
+        <g stroke="#8a7c58" stroke-width="2">
+          <line x1="40" y1="54" x2="420" y2="54"/><line x1="40" y1="74" x2="420" y2="74"/>
+          <line x1="40" y1="94" x2="420" y2="94"/><line x1="40" y1="114" x2="420" y2="114"/>
+          <line x1="40" y1="134" x2="420" y2="134"/><line x1="40" y1="154" x2="420" y2="154"/>
+        </g>
+        <g font-size="11" fill="#9aa0ab" text-anchor="end">
+          <text x="34" y="58">1</text><text x="34" y="78">2</text><text x="34" y="98">3</text>
+          <text x="34" y="118">4</text><text x="34" y="138">5</text><text x="34" y="158">6</text>
+        </g>
+        <g fill="#e8b33a">
+          <ellipse cx="90" cy="134" rx="9" ry="7"/><ellipse cx="160" cy="54" rx="9" ry="7"/>
+          <ellipse cx="230" cy="154" rx="9" ry="7"/><ellipse cx="300" cy="94" rx="9" ry="7"/>
+          <ellipse cx="370" cy="94" rx="9" ry="7"/>
+        </g>
+        <text x="440" y="60" font-size="12" fill="#cfd3da">왼쪽 → 오른쪽으로</text>
+        <text x="440" y="80" font-size="12" fill="#cfd3da">읽은 결과 (예시)</text>
+        <text x="440" y="112" font-size="20" fill="#e8b33a">5 · 1 · 6 · 3 · 3</text>
+        <text x="440" y="140" font-size="11" fill="#9aa0ab">음표는 항상 5개</text>
+        <text x="20" y="196" font-size="12.5" fill="#e8b33a">2) 해골 6개를 왼쪽부터 1~6 — 같은 순서로 누른다</text>
+        <g>
+          <g fill="#d8d2c4">
+            <circle cx="70" cy="240" r="22"/><circle cx="160" cy="240" r="22"/><circle cx="250" cy="240" r="22"/>
+            <circle cx="340" cy="240" r="22"/><circle cx="430" cy="240" r="22"/><circle cx="520" cy="240" r="22"/>
+          </g>
+          <g fill="#101116">
+            <circle cx="63" cy="236" r="4"/><circle cx="77" cy="236" r="4"/>
+            <circle cx="153" cy="236" r="4"/><circle cx="167" cy="236" r="4"/>
+            <circle cx="243" cy="236" r="4"/><circle cx="257" cy="236" r="4"/>
+            <circle cx="333" cy="236" r="4"/><circle cx="347" cy="236" r="4"/>
+            <circle cx="423" cy="236" r="4"/><circle cx="437" cy="236" r="4"/>
+            <circle cx="513" cy="236" r="4"/><circle cx="527" cy="236" r="4"/>
+          </g>
+          <g font-size="12" fill="#9aa0ab" text-anchor="middle">
+            <text x="70" y="284">1</text><text x="160" y="284">2</text><text x="250" y="284">3</text>
+            <text x="340" y="284">4</text><text x="430" y="284">5</text><text x="520" y="284">6</text>
+          </g>
+        </g>
+        <g font-size="13" fill="#5bc98a" text-anchor="middle">
+          <text x="430" y="216">①</text><text x="70" y="216">②</text><text x="520" y="216">③</text>
+          <text x="250" y="216">④⑤</text>
+        </g>
+        <rect x="20" y="306" width="600" height="38" rx="6" fill="#1c2a20" stroke="#2b6e42"/>
+        <text x="34" y="330" font-size="12.5" fill="#7fe0a8">예시대로면 누르는 순서: 5번 → 1번 → 6번 → 3번 → 3번 해골</text>
+      </svg>

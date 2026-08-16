@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+        <rect width="640" height="320" fill="#101116"/>
+        <text x="20" y="26" font-size="12.5" fill="#e8b33a">1단계 (초반) — 갑옷을 밀어 카펫에 자국을 남겨둔다</text>
+        <rect x="20" y="40" width="600" height="8" fill="#8a2f2f"/>
+        <g><rect x="520" y="-0" width="0" height="0"/></g>
+        <g transform="translate(520,0)">
+          <rect x="0" y="-0" width="0" height="0"/>
+        </g>
+        <g>
+          <rect x="540" y="52" width="8" height="60" fill="#9aa0ab"/>
+          <circle cx="544" cy="46" r="10" fill="#c9cdd6"/>
+          <path d="M552 60 l40 -22" stroke="#c9cdd6" stroke-width="4"/>
+          <text x="544" y="130" font-size="11" fill="#9aa0ab" text-anchor="middle">갑옷·미늘창</text>
+        </g>
+        <rect x="470" y="36" width="42" height="12" fill="#e8b33a" opacity=".7"/>
+        <text x="491" y="30" font-size="11" fill="#e8b33a" text-anchor="middle">자국</text>
+        <text x="20" y="176" font-size="12.5" fill="#e8b33a">2단계 (붙잡힌 뒤) — 의자를 자국 위까지 끌고 간다</text>
+        <rect x="20" y="190" width="600" height="8" fill="#8a2f2f"/>
+        <g>
+          <rect x="60" y="200" width="26" height="34" fill="#6a5a3a"/><rect x="96" y="200" width="26" height="34" fill="#6a5a3a"/>
+          <text x="91" y="252" font-size="11" fill="#9aa0ab" text-anchor="middle">인디·헨리</text>
+        </g>
+        <path d="M140 214 H452" stroke="#5bc98a" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#ar4)"/>
+        <defs><marker id="ar4" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L9 4 L0 8z" fill="#5bc98a"/></marker></defs>
+        <text x="296" y="206" font-size="12" fill="#5bc98a" text-anchor="middle">Pull 약 55회</text>
+        <rect x="470" y="190" width="42" height="12" fill="#e8b33a" opacity=".7"/>
+        <g><rect x="466" y="200" width="26" height="34" fill="#6a5a3a"/><rect x="496" y="200" width="26" height="34" fill="#6a5a3a"/></g>
+        <text x="494" y="252" font-size="11" fill="#e8b33a" text-anchor="middle">등받이를 자국에 정확히</text>
+        <rect x="20" y="266" width="600" height="42" rx="6" fill="#1c2a20" stroke="#2b6e42"/>
+        <text x="34" y="292" font-size="12.5" fill="#7fe0a8">정렬 후 갑옷에 Use → 미늘창이 떨어지며 밧줄 절단 → 벽난로 왼쪽 석상 Push → 비밀문</text>
+      </svg>
