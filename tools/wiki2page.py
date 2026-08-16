@@ -111,6 +111,11 @@ def convert(text: str, slug: str) -> str:
     # 6) 사이트에 없는 위키 내부 링크 모음은 통째로 제거
     text = re.sub(r"\n---\n\n## 관련 페이지\n(?:.*\n)*?(?=\n---|\Z)", "\n", text)
 
+    # 6-1) 「공략 사이트」 표의 자기 자신(jidae.com) 행 제거.
+    #      위키쪽에는 게임 대시보드 확장이 북마크로 읽도록 이 페이지 URL과
+    #      장별 앵커를 넣어두지만, 공개 페이지에 자기 링크를 다시 실을 필요는 없다.
+    text = re.sub(r"^\|[^\n]*https://jidae\.com/games/[^\n]*\|\s*$\n", "", text, flags=re.M)
+
     # 7) 공개용 푸터
     text = text.rstrip().rstrip("-").rstrip() + (
         "\n\n---\n\n"
